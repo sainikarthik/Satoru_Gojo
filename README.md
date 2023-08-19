@@ -1,2 +1,2 @@
-# Satoru_Gojo
-my first project
+# satoru_gojo
+first project
